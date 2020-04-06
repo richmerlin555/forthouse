@@ -73,7 +73,6 @@
             }
             
             .main__btn {
-                margin: 20 auto;
                 line-height: 36px;
                 font-size: 16px;
                 color: #1b1b1b;
@@ -597,7 +596,6 @@
             .contact__info {
                 min-width: 35%;
                 text-align: center;
-                padding-top: px;
             }
             
             .contact__phone,
